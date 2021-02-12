@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"vaerini_andrea_info2febbraio","c":"main","l":"main()","url":"%3Cinit%3E()"},{"p":"vaerini_andrea_info2febbraio","c":"main","l":"main(String[])","url":"main(java.lang.String[])"}]
