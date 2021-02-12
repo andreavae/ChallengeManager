@@ -31,13 +31,14 @@ public abstract class Sfida implements Comparable<Sfida> {
 	
 	/** 
 	 *  
-	 *  @param prefisso cambia nelle sottoclassi *
+	 *  @param prefisso cambia nelle sottoclassi
 	 *  @param descrizione 
-	 *  * @param p1 * 
-	 *  @param p2 * 
-	 *  @param o * 
-	 *  @param c * 
-	 *  @throws OrarioNonValidoException */
+	 *  @param p1 
+	 *  @param p2 
+	 *  @param o 
+	 *  @param c 
+	 *  @throws OrarioNonValidoException
+	 */
 	
 	
 	public Sfida(char prefisso, String descrizione, String p1, String p2, Orario o, boolean c) throws OrarioNonValidoException {
@@ -48,8 +49,7 @@ public abstract class Sfida implements Comparable<Sfida> {
 	
 	/**
 	 * 
-	 * @return punteggio della sfida
-	 * 
+	 * @return punteggio della sfida 
 	 */
 	
 	public abstract int punteggio();

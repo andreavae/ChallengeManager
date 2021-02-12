@@ -2,7 +2,7 @@ package sfide;
 
 import prog.utili.Orario;
 
-public class pacifica extends Sfida {
+public class Pacifica extends Sfida {
 	
 	// nessun campo in più 
 	public Pacifica(String ID, String descrizione, String p1, String p2, Orario o, boolean c) throws OrarioNonValidoException {
