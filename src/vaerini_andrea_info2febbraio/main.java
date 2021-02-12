@@ -1,6 +1,6 @@
-package vaerini_andrea_info2febbraio;
+package main;
 
-public class main {
+public class prova {
 
 	public static void main(String[] args) {
 		System.out.print("primo github");
