@@ -1,12 +1,12 @@
-# vaerini_andrea_info2
-Progetto info2 per la prova di febbraio 2021
+# Challenge manager for a videogame
+Management of different challenges: single and multiple in a videogame in Java (object programming)
 
-In primo luogo definisco una classe GestoreSfide che Ë 
+In primo luogo definisco una classe GestoreSfide che √® 
 la mia classe principale. I campi sono costituiti da: 
-orario in cui la sfida si Ë tenuta, il nome dei due 
-partecipanti e la sua validit‡, la quale puÚ essere o campionato 
+orario in cui la sfida si √® tenuta, il nome dei due 
+partecipanti e la sua validit√†, la quale pu√≤ essere o campionato 
 o amichevole (utilizzo dunque dei boolean). Infine l'orario non
-consentito Ë prima delle 6 e dopo le 23, per i quali creo delle
+consentito √® prima delle 6 e dopo le 23, per i quali creo delle
 eccezioni controlare.  Esistono tre sottoclassi di sfide: 
 pacifiche, normali e competizione.   
 
